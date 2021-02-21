@@ -7,9 +7,9 @@ salas, a town in asturias
 <h2>
   list of restuarants in salas
   <ul>
-    <li> Casa Pachon </li>
-    <li> Bar Frisuelo </li>
-    <li> La Confiteria </li>
+    <li> casa pachon </li>
+    <li> bar frisuelo </li>
+    <li> la confiteria </li>
   </ul>
   <h3>
     list of shops in salas
