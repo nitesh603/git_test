@@ -2,7 +2,8 @@ This is Nitesh Gurbani's first git project
 <h1>
 salas, a town in asturias
 </h1>
-<img src= "
+<img src= "![salas opening pic](https://user-images.githubusercontent.com/77894579/108622019-84ccc380-7436-11eb-8c81-e983225735e5.jpeg) alt = "narcea river salas" </img>  
+
 <a href = "https://ayto-salas.sedelectronica.es/info.0"> salas </a>
 <h2>
   list of restuarants in salas
