@@ -22,9 +22,9 @@ salas, a town in asturias
     </ol>
   </h3>
   <p>
-  <form action ="send info to crisnit@me.com" 
-    <input type ="text" placeholder = "insert email here" >
-  </form>
+    <input type = "text" placeholder = "insert email here" >
+  </p>
+  
   
     
   
